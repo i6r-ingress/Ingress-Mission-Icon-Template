@@ -1,16 +1,17 @@
 # Ingress Mission Icon Template (for Illustrator CS+)
+## 概要
 
-IngressのAgentが作成出来るミッション。そのアイコンを手っ取り早く作るための簡易的なテンプレートです。Adobe Illustrator CS以降に対応。
+Google謹製のGPS連動型ゲーム「Ingress」にはプレーヤーが作成出来る「ミッション」というものがあります。そのアイコンを手っ取り早く作るための簡易的なテンプレートです。Adobe Illustrator CS以降に対応。（Photoshopでも使えるかも。）
 
 GitHub上のファイル・フォルダ構成は以下の通り
   - **IngressMissionTemplateCS6.ai** : 本体。Illustratorを使う人はこれだけでOK。
-  - **./CS1-5/** : CS1,3,5用のファイル。古いバージョンのIllustrator用。動作未確認。 
-  - **./svg/** : SVGファイル。Inkscapeなどを使う人用。
-  - **./jpg/** : Readme.md用。特にDLは不要です。
+  - **（フォルダ）CS1-5/** : CS1,3,5用のファイル。古いバージョンのIllustrator用。動作未確認。 
+  - **（フォルダ）jpg/** : Readme.md用。特にDLは不要です。
+  - **（フォルダ）svg/** : SVGファイル。Inkscapeなどを使う人用。
 
 
 ----
-テンプレート本体である **IngressMissionTemplateCS6.ai** の内容は、ざっと挙げると以下とおりです。
+**IngressMissionTemplateCS6.ai** の内容は、ざっと挙げると以下とおりです。
   - 補助線用ガイド
   - Status画面でのメダルの見え方を簡易的に確認するレイヤー（「Status Simulation」レイヤー）
   - 簡単な解説
@@ -18,14 +19,11 @@ GitHub上のファイル・フォルダ構成は以下の通り
   - Bronze, Silver, Gold, Platinum, Onyxのカラーバリエーション
   - 数字など、汎用性のありそうな素材をいくつか同梱
 
-データは若干雑だったり、ファイルを書き出すための便利なスクリプトは無いので悪しからず。  
-MITライセンスですが、出典などの表記は特に不要です。
-
 SVGファイルも同梱してあるので、Inkscapeなどのフリーソフトでも開けると思います。（面倒なので未確認）
 
 ----
 
-# 使用について：
+## 編集について：
 
 テンプレートファイルはいくつかのレイヤーに分かれています。配色や縁取りをそのまま利用する場合は基本的には「Edit This Layer」内を弄くれば事足りるはずです。
 
@@ -44,7 +42,7 @@ Onyx：背景（#000000）　縁取り（#878787 - 595959）
 
 ----
 
-# テンプレートアイコンの外観：
+## テンプレートアイコンの外観：
 
 テンプレートには全国でも最多を誇る、*あのポータル* のロゴを使用。  
 そのまま利用してLAWSON用のミッションを作ってしまえます。（LAWSONロゴの出典：TM-R）
@@ -55,6 +53,15 @@ Onyx：背景（#000000）　縁取り（#878787 - 595959）
 ![Platinum](https://raw.githubusercontent.com/i6r-ingress/Ingress-Mission-Icon-Template/master/jpg/Platinum.jpg)
 ![Onyx](https://raw.githubusercontent.com/i6r-ingress/Ingress-Mission-Icon-Template/master/jpg/Onyx.jpg)
 
+----
+
+## 免責事項・注意事項：
+
+  - データは若干雑だったり、ファイルを書き出すための*便利な何か*は無いので悪しからず。  
+  - MITライセンスですが、出典などの表記は特に不要です。
+  - Status画面に並べたくなるようなミッションアイコンって良いよね！
+  - アイコンに使えるベクターアートを探すには「animal svg public domain」などと検索すると◎。
+  - LAWSONロゴの出典：TM-R
 
 連絡などはtwitterまで：
 <https://twitter.com/i6r_ingress>
