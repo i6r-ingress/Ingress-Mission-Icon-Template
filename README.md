@@ -45,7 +45,7 @@ Onyx：背景（#000000）　縁取り（#878787 - 595959）
 ## テンプレートアイコンの外観：
 
 テンプレートには全国でも最多を誇る、*あのポータル* のロゴを使用。  
-そのまま利用してLAWSON用のミッションを作ってしまえます。（LAWSONロゴの出典：TM-R）
+そのまま利用してLAWSON用のミッションを作ってしまえます。
 
 ![Bronze](https://raw.githubusercontent.com/i6r-ingress/Ingress-Mission-Icon-Template/master/jpg/Bronze.jpg)
 ![Silver](https://raw.githubusercontent.com/i6r-ingress/Ingress-Mission-Icon-Template/master/jpg/Silver.jpg)
