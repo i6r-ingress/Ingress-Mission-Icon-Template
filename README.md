@@ -30,13 +30,23 @@ SVGファイルも同梱してあるので、Inkscapeなどのフリーソフト
 ![Edit This Layer](https://raw.githubusercontent.com/i6r-ingress/Ingress-Mission-Icon-Template/master/jpg/Readme_Layer.jpg)  
 
 
-テンプレート内の各メダルの色のカラーコードは以下のとおり：
+#### それぞれのレイヤーの概要：
 
-Bronze：背景（#49200b）　縁取り（#e7ac8f - b07c58）  
-Silver：背景（#394142）　縁取り（#afccda - 7c9199）  
-Gold：背景（#6d4d28）　縁取り（#ffdb5e - c29942）  
-Platinum：背景（#282828）　縁取り（#bcbcbc - 909090）  
-Onyx：背景（#000000）　縁取り（#878787 - 595959）  
+  - **Guides** : 補助線。
+  - **Hints** : ヒント・解説用のレイヤー。
+  - **Status Simulation** : "表示"にするとStatus画面での見え方を確認できます。（通常は"非表示"）
+  - **Border** : アイコンの丸い外枠。
+  - **Edit This Layer** : その名の通り。ここを編集すればOK。
+  - **Background Color** : その名の通り。背景色。
+
+
+#### テンプレート内の各メダルの色のカラーコード：
+
+  - **Bronze**：背景（#49200b）　縁取り（#e7ac8f - b07c58）  
+  - **Silver**：背景（#394142）　縁取り（#afccda - 7c9199）  
+  - **Gold**：背景（#6d4d28）　縁取り（#ffdb5e - c29942）  
+  - **Platinum**：背景（#282828）　縁取り（#bcbcbc - 909090）  
+  - **Onyx**：背景（#000000）　縁取り（#878787 - 595959）  
 
 *※縁取りのグラデーションは、Ingressの公式のメダルとは微妙に色が違います。*
 
