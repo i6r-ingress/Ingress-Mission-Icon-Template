@@ -2,6 +2,12 @@
 
 IngressのAgentが作成出来るミッション。そのアイコンを手っ取り早く作るための簡易的なテンプレートです。Adobe Illustrator CS以降に対応。
 
+  - **IngressMissionTemplateCS6.ai** : 本体。Illustratorを使う人はこれだけでOK。
+  - **./CS1-5/** : CS1とCS5用のファイル。古いバージョンのIllustrator用。 
+  - **./svg/** : SVGファイル。Inkscapeなどの人用
+  - **./jpg/** : jgp画像。特に不要。
+
+
 ----
 ざっと挙げると、以下のような内容です。
   - スナップ等用のガイド
