@@ -1,7 +1,7 @@
 # Ingress Mission Icon Template (for Illustrator CS+)
 ## 概要
 
-Google謹製のGPS連動型ゲーム「Ingress」にはプレーヤーが作成出来る「ミッション」というものがあります。そのアイコンを手っ取り早く作るための簡易的なテンプレートです。Adobe Illustrator CS以降に対応。Photoshopでの動作確認。GIMPでも開けるようです。
+Google謹製のGPS連動型ゲーム「Ingress」にはプレーヤーが作成出来る「ミッション」というものがありますが、これはそのアイコンを手っ取り早く作るための簡易的なテンプレートです。Adobe Illustrator CS以降に対応。Photoshopでの動作確認。GIMPでも開けるようです。
 
 GitHub上のファイル・フォルダ構成は以下の通り
   - **IngressMissionTemplateCS6.ai** : 本体。Illustratorを使う人はこれだけでOK。
