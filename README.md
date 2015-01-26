@@ -25,6 +25,7 @@ SVGファイルも同梱してあるので、Inkscapeなどのフリーソフト
   - Adobe Illustrator
   - Adobe Photoshop
   - GIMP （無料）
+  - Inkscape （Linux版 ver0.48 / 無料）
 
 ----
 
